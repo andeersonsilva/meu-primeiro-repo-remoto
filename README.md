@@ -9,3 +9,5 @@ Este foi meu primeiro repositório remoto para trabalhar com Git e GitHub!
 - Git 
 - GitHub
  confira meu perfil em: [andeersonsilva](https://github.com/andeersonsilva)
+
+ Primera atuaização feita em 22/10/2024
